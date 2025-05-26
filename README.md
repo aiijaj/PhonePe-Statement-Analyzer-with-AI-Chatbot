@@ -116,7 +116,7 @@ MIT License
 
 ## 👤 Author
 
-- [Your Name](https://github.com/aiijaj)
+- [Aijaj Mulla](https://github.com/aiijaj)
 
 ---
 
