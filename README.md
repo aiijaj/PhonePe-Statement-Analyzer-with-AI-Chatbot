@@ -19,7 +19,12 @@ A Streamlit web app that analyzes your PhonePe transaction statements (PDF/CSV),
 
 ## 🖥️ Demo
 
-![Screenshot 2025-05-26 112428](https://github.com/user-attachments/assets/87bc148e-e570-4553-96fe-79ff53dd53ee)
+![Screenshot 2025-05-26 112402](https://github.com/user-attachments/assets/f4da6e2e-b106-445e-a7fd-14c304db2b34)
+![Screenshot 2025-05-26 112416](https://github.com/user-attachments/assets/1d7a1283-0c20-41c7-ba63-e6bef7f27928)
+![Screenshot 2025-05-26 112428](https://github.com/user-attachments/assets/72729e24-eb5b-4f1f-9417-0450986d91b5)
+
+
+
 
 
 ---
