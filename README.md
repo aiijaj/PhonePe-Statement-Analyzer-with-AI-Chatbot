@@ -55,7 +55,7 @@ A Streamlit web app that analyzes your PhonePe transaction statements (PDF/CSV),
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/yourusername/phonepe-analyzer.git
+   git clone https://github.com/aiijaj/phonepe-analyzer.git
    cd phonepe-analyzer
    ```
 
