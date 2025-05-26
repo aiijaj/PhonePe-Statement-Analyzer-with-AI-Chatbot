@@ -1,0 +1,7 @@
+streamlit
+pandas
+pikepdf
+pdfplumber
+plotly
+transformers
+torch
