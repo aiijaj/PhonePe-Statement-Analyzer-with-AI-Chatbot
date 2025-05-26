@@ -129,5 +129,9 @@ MIT License
 - [Plotly](https://plotly.com/python/)
 
 ---
-
+## My Socials
+Linkedin
+-https://www.linkedin.com/in/aijaj-mulla/
+GitHub
+-https://github.com/aiijaj
 *Feel free to fork, contribute, or open issues!*
