@@ -55,7 +55,7 @@ A Streamlit web app that analyzes your PhonePe transaction statements (PDF/CSV),
 
 1. **Clone this repo:**
    ```bash
-  https://github.com/aiijaj/PhonePe-Statement-Analyzer-with-AI-Chatbot.git
+    https://github.com/aiijaj/PhonePe-Statement-Analyzer-with-AI-Chatbot.git
    ```
 
 2. **Install dependencies:**
